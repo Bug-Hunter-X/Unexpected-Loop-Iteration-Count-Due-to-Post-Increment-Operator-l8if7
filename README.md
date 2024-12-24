@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Java related to the post-increment operator within a while loop condition. The seemingly simple loop runs one more time than expected, illustrating a common source of errors for less experienced developers. The solution provides a corrected version, explaining the issue and its resolution.
